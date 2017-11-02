@@ -23,7 +23,7 @@
                 <version>2.20.1</version>
                 <configuration>
                     <systemPropertyVariables>
-                        <env>dev</env>
+                        <env>stage</env>
                     </systemPropertyVariables>
                 </configuration>
             </plugin>
